@@ -53,8 +53,8 @@ To run the lane detection algorithm:
 
 <b>Clone the Repository:</b> Clone the repository containing the lane detection code.<br>
 ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+git clone <repository-url>
+cd <repository-directory>
 ```
 <b>Install Dependencies:</b> Ensure Python and necessary libraries are installed.<br>
     
@@ -66,7 +66,6 @@ pip install opencv-python numpy matplotlib
 <b>Execute the Code:</b> Run the Python script to process images or video frames and visualize lane detection results.</li>
 
 ```bash
-    python lane_detection.py
+python lane_detection.py
 ```
 
-</ol>
