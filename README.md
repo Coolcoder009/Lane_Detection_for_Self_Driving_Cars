@@ -1,5 +1,5 @@
 # Lane_Detection_for_Self_Driving_Cars
-# Lane_Detection_for_Self_Driving_Cars
+
 Lane Detection for Self-Driving Cars is a computer vision project designed to detect and visualize lane markings on road images or video streams. This project utilizes techniques like Canny edge detection, Hough transform, and polynomial fitting to identify and highlight lane lines.
 
 ## Overview
@@ -41,17 +41,18 @@ Example Usage
 Implementation
 The provided code snippet demonstrates lane detection using a combination of OpenCV functions for edge detection, masking, and line fitting. Adjust parameters like thresholds, region of interest, and line fitting methods based on specific road conditions and camera setups.
 
-Future Enhancements
+### Future Enhancements
 <ul>
   <li>Implement advanced algorithms for lane curvature detection.</li>
   <li>Optimize performance for real-time video processing.</li>
   <li>Integrate with camera feed from autonomous vehicles or traffic monitoring systems.</li>
 </ul>
-Running the Code
+
+### Running the Code
 To run the lane detection algorithm:
 
 <ol>
-  <li><b>Clone the Repository:</b> Clone the repository containing the lane detection code.
+  <li><b>Clone the Repository:</b> Clone the repository containing the lane detection code.<br>
 
 ```bash
     git clone <repository-url>
@@ -65,7 +66,8 @@ To run the lane detection algorithm:
       ```</li>
     </ul>
   </li>
-  <li><b>Execute the Code:</b> Run the Python script to process images or video frames and visualize lane detection results.
+  
+  <li><b>Execute the Code:</b> Run the Python script to process images or video frames and visualize lane detection results.</li>
 
 ```bash
     python lane_detection.py
