@@ -51,13 +51,12 @@ The provided code snippet demonstrates lane detection using a combination of Ope
 ### Running the Code
 To run the lane detection algorithm:
 
-<b>Clone the Repository:</b> Clone the repository containing the lane detection code.<br><br>
-
+<b>Clone the Repository:</b> Clone the repository containing the lane detection code.<br>
 ```bash
     git clone <repository-url>
     cd <repository-directory>
 ```
-<b>Install Dependencies:</b> Ensure Python and necessary libraries are installed.<br><br>
+<b>Install Dependencies:</b> Ensure Python and necessary libraries are installed.<br>
     
 ```bash
 pip install opencv-python numpy matplotlib
